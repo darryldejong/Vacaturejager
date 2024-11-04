@@ -9,7 +9,7 @@
 1. Installeer Python 3.13 (64-bit)
 2. Installeer de vereiste bibliotheken met: pip install -r requirements.txt.
 
-## Excel
+## Resultaten
 - **Functie:** (Titel van de vacature)
 - **Bedrijf:** (Naam van het bedrijf dat de vacature aanbiedt)
 - **Locatie:** (Locatie van de functie)
@@ -18,3 +18,13 @@
 - **Aanvullende Informatie:** (Extra details over de functie)
 
 ![Afbeelding 1](Afbeelding2.png)
+
+## Disclaimer
+Het gebruik van deze webscraper is op eigen risico en de auteur is niet verantwoordelijk voor enige problemen die kunnen ontstaan door het gebruik van deze tool, die alleen voor educatieve doeleinden is bedoeld. 
+
+**Belangrijke richtlijnen:**
+1. **Gebruiksvoorwaarden**: Houd rekening met de gebruiksvoorwaarden van de websites die je wilt scrapen en gebruik deze tool uitsluitend voor legale en ethische doeleinden.
+
+2. **Verantwoordelijkheid**: Bij gebruik van deze webscraper accepteer je de verantwoordelijkheid voor je eigen acties en de gevolgen daarvan.
+
+3. **Aansprakelijkheid**: Deze tool is niet ontworpen om websites te overbelasten of te misbruiken.
