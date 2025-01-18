@@ -1,6 +1,6 @@
 
 # VacatureJager
-**VacatureJager** is een webscraper gemaakt in Python die vacatures verzamelt van de website https://www.werkzoeken.nl/. De scraper haalt relevante gegevens op en slaat deze op in een Excel-bestand. Hierdoor kunnen gebruikers op een gestructureerde manier vacatures bekijken en vergelijken.
+**VacatureJager** is een webscraper gemaakt in Python die vacatures verzamelt van https://www.werkzoeken.nl/. De scraper haalt relevante gegevens op en slaat deze op in een Excel-bestand, zodat gebruikers vacatures gestructureerd kunnen bekijken en vergelijken. 
 
 <img src="Voorbeeld.gif" alt="Voorbeeld" width="800">
 
@@ -16,8 +16,6 @@
 - **Uren:** (Aantal uren per week dat de functie vereist)
 - **Salaris:** (Salaris dat wordt aangeboden)
 - **Aanvullende Informatie:** (Extra details over de functie)
-
-![Afbeelding 1](Afbeelding2.png)
 
 ## Disclaimer
 Het gebruik van deze webscraper is op eigen risico en de auteur is niet verantwoordelijk voor enige problemen die kunnen ontstaan door het gebruik van deze tool, die alleen voor educatieve doeleinden is bedoeld. 
